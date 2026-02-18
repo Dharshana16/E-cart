@@ -2,7 +2,7 @@
 
 You can clone the project using 
 ```
-git clone https://github.com/Mithun2303/E-Commerce-Data-Analytics.git
+git clone https://github.com/Dharshana16/E-cart.git
 ```
 
 ## This project works on python 3.10
@@ -26,13 +26,13 @@ pip install -r requirements.txt
 ```schemas/```
 ### To create a table using python you should import the schema in create_db.py and run it.
 
-<img width="732" alt="Screenshot 2023-06-27 at 7 00 27 PM" src="assets/screenshot1.png">
+<img src="assets/screenshot1.png">
 
 ### Repeat this for every table you need to create
 
 ## In the database.py file change the username password and the dbname
 
-<img width="710" alt="Screenshot 2023-06-27 at 7 02 21 PM" src="assets/screenshot2.png">
+<img src="assets/screenshot2.png">
 
 ## Add the dataset file in your database using
 ```
