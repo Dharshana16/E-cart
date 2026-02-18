@@ -26,13 +26,13 @@ pip install -r requirements.txt
 ```schemas/```
 ### To create a table using python you should import the schema in create_db.py and run it.
 
-<img width="732" alt="Screenshot 2023-06-27 at 7 00 27 PM" src="https://github.com/Mithun2303/E-Commerce-Data-Analytics/assets/84895703/6f92c473-3f54-4b78-b7c5-3c981adeb0f9">
+<img width="732" alt="Screenshot 2023-06-27 at 7 00 27 PM" src="assets/screenshot1.png">
 
 ### Repeat this for every table you need to create
 
 ## In the database.py file change the username password and the dbname
 
-<img width="710" alt="Screenshot 2023-06-27 at 7 02 21 PM" src="https://github.com/Mithun2303/E-Commerce-Data-Analytics/assets/84895703/d6ea806e-c9c5-45c8-a27e-de6ff2094b5d">
+<img width="710" alt="Screenshot 2023-06-27 at 7 02 21 PM" src="assets/screenshot2.png">
 
 ## Add the dataset file in your database using
 ```
